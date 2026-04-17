@@ -10,7 +10,7 @@ AstraNex is an all-in-one penetration testing toolkit with 9 powerful modules. I
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/yourusername/AstraNex.git
+git clone https://github.com/Sanjaynain750/AstraNex.git
 cd AstraNex
 chmod +x setup.sh
 ./setup.sh
